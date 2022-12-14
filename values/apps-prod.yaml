@@ -1,0 +1,8 @@
+spec:
+  source:
+    repoURL: https://gvozdi.gitlab.yandexcloud.net/yc-courses/infra.git
+    targetRevision: HEAD
+    appsRepoURL: https://gvozdi.gitlab.yandexcloud.net/yc-courses/todoapp.git
+    appsTargetRevision: HEAD
+  destination:
+    server: https://
